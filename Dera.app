@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'00', 'ver3':'\n• [Important Update]\n• [improvement] Anti-ban\n• [Update] WhatsApp base to 2.23.1.76\n• [ واتساب صخر تحديث جديد مهم]\n• [تحسين] الحماية ضد الحظر\n• [تحديث] قاعدة واتساب الى 2.23.1.76\n' , 'dli':'https://whatsaber2.blogspot.com/2023/06/un2whatsapp.html'}
+{'ver1':'7', 'ver2':'00', 'ver3':'\n• [Important Update]\n• [improvement] Anti-ban\n• [Update] WhatsApp base to 2.23.1.76\n• [ واتساب  تحديث جديد مهم]\n• [تحسين] الحماية ضد الحظر\n• [تحديث] قاعدة واتساب الى 2.23.1.76\n' , 'dli':'https://whatsaber2.blogspot.com/2023/06/un2whatsapp.html'}
