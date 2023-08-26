@@ -1,1 +1,1 @@
-12||https:/www.google.com||https:/www.google.com
+12||https://whatsaber2.blogspot.com/2022/10/WhatSaber.html||https://whatsaber2.blogspot.com/2022/10/WhatSaber.html
