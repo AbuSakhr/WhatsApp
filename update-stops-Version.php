@@ -1,1 +1,1 @@
-15||https://whatsaber2.blogspot.com/2022/10/WhatSaber.html/||https://whatsaber2.blogspot.com/2022/10/WhatSaber.html/
+15||https://bit.ly/whatssaber||https://bit.ly/whatssaber
