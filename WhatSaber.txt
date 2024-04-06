@@ -1,4 +1,3 @@
-
 {
   "Gold": {
     "update_code": "0",
@@ -10,7 +9,7 @@
     "com.WhatsApp4Plus": "https://update.gold/updateblue",
     "com.WhatsApp5Plus": "https://update.gold/updateblack",
     "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 11.30</p>
+<p>Update Vطھط­ط¯ظٹط« 15.30</p>
 <li>ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„ط¥ط®ظپط§ط، ط§ط´ط¹ط§ط± ط§ظ„ط­ط§ظ„ط§طھ ط§ظ„ظ…ط­ط°ظˆظپط©</li>
 <li>طھط­ط³ظٹظ† ط²ط± ط­ظپط¸ ط§ظ„ط­ط§ظ„ط§طھ</li>
 <li>طھط­ط³ظٹظ† ط¸ظ‡ظˆط± ط²ط± ط§ظ„طھط±ط¬ظ…ط© ظپظٹ ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
